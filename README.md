@@ -7,4 +7,4 @@ Purchase items.
 Show bill, considering the offers and discount.
 View current inventory status after purchase is done.
 View sales status.
-Search sales status by purchaser's name
+Search sales status by purchaser's name.
