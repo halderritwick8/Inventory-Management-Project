@@ -4,7 +4,7 @@ This is a project for managing inventory and handling data as well.
 # Brief Description
 This project mainly deals will the management process that are often used in big stores and inventories. This projects contals all sorts of operations that are usually performed in a store and the execution can be done in more user friendly way.
 
-### Features
+## Features
 1. Add new items to the inventory
 2. Delete a paricular item from the inventory
 3. Make purchase, like single or multiple purchases of a single purchaser
@@ -13,14 +13,14 @@ This project mainly deals will the management process that are often used in big
 6. Show the sales report including all details
 7. Search the sales report by purchaser's name
 
-# All files
+## All files
 1. Add new data and delete data in Inventory.ipynb
 2. Inventory_Management_System.ipynb (This the main code for doing purchases)
 3. Current Inventory Status.ipynb
 4. store_record.json
 5. sales_record.json
 
-# Product Features
+## Product Features
 Product items of the inventory mainly contains these features
 1. Product id
 2. Name of the item
@@ -30,7 +30,7 @@ Product items of the inventory mainly contains these features
 6. Expiory date(where required)
 7. Discount
 
-# Transaction Features
+## Transaction Features
 The transaction is done in a formatted way by showing the payment slip with a strict format.
 The payment slip contans :
 1. Bill no.
@@ -40,10 +40,10 @@ The payment slip contans :
 5. Net payble amount of the customer
 6. Total amount to be payed considering the offers
 
-# About Me
+## About Me
 I am Ritwick Halder, pursuing B.E. in Electrical Engineering (2020-2024) at Jadavpur University, Kolkata. I have a great interest in coding. I am always curious to learn and gather new topics and knowledge.
 
-# Social media platform
+## Social media platform
 Linked in : linkedin.com/in/ritwick-halder-b10639207
 
 
