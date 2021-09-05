@@ -1,5 +1,5 @@
 # Inventory-Management-Project
-This is a project for managing inventory and handling data as well.
+This is a project for managing inventory and handling json based data as well.
 
 # Brief Description
 This project mainly deals will the management process that are often used in big stores and inventories. This projects contals all sorts of operations that are usually performed in a store and the execution can be done in more user friendly way.
